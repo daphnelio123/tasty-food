@@ -1,0 +1,1 @@
+This program runs in mobile browsers. It estimates the approximate number of calories by taking photos of food. It can also calculate the recommended daily calorie intake based on the height and weight you enter.
